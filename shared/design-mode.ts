@@ -1,0 +1,1 @@
+export const initDesignMode = () => { console.log('Mocked design mode initialized'); };
